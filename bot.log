@@ -1,0 +1,39 @@
+telegram.ext.updater - INFO - Received signal 2 (SIGINT), stopping...
+telegram.ext.updater - WARNING - Exiting immediately!
+root - INFO - Бот запускается
+telegram.ext.updater - INFO - Received signal 2 (SIGINT), stopping...
+telegram.ext.updater - WARNING - Exiting immediately!
+2019-05-28 01:49:23,489 - root - INFO - Бот запускается
+2019-05-28 01:52:28,897 - telegram.ext.updater - INFO - Received signal 2 (SIGINT), stopping...
+2019-05-28 01:52:29,500 - telegram.ext.updater - WARNING - Exiting immediately!
+2019-05-28 01:52:31,927 - root - INFO - Бот запускается
+2019-05-28 01:53:08,715 - telegram.ext.updater - INFO - Received signal 2 (SIGINT), stopping...
+2019-05-28 01:53:09,494 - telegram.ext.updater - WARNING - Exiting immediately!
+2019-05-28 01:53:19,910 - root - INFO - Бот запускается
+2019-05-28 01:56:01,497 - telegram.ext.updater - INFO - Received signal 2 (SIGINT), stopping...
+2019-05-28 01:56:01,808 - telegram.ext.updater - WARNING - Exiting immediately!
+2019-05-28 01:56:11,791 - root - INFO - Бот запускается
+2019-05-28 01:56:16,242 - root - INFO - Вызван /start
+2019-05-28 02:46:27,118 - telegram.ext.updater - INFO - Received signal 2 (SIGINT), stopping...
+2019-05-28 02:46:27,501 - telegram.ext.updater - WARNING - Exiting immediately!
+2019-05-28 02:46:29,843 - root - INFO - Бот запускается
+2019-05-28 02:48:40,157 - telegram.ext.updater - INFO - Received signal 2 (SIGINT), stopping...
+2019-05-28 02:48:40,355 - telegram.ext.updater - WARNING - Exiting immediately!
+2019-05-28 02:48:42,397 - root - INFO - Бот запускается
+2019-05-28 03:01:29,086 - telegram.ext.updater - INFO - Received signal 2 (SIGINT), stopping...
+2019-05-28 03:01:29,377 - telegram.ext.updater - WARNING - Exiting immediately!
+2019-05-28 03:03:35,550 - root - INFO - Бот запускается
+2019-05-28 03:16:05,808 - telegram.ext.updater - INFO - Received signal 2 (SIGINT), stopping...
+2019-05-28 03:16:06,256 - telegram.ext.updater - WARNING - Exiting immediately!
+2019-05-28 03:16:20,608 - root - INFO - Бот запускается
+2019-05-28 03:16:41,821 - root - INFO - User: %s, Chat id: %s, Message %s, update.message.chat.username, update.message.chat.id, update.message.text
+2019-05-28 03:18:48,717 - telegram.ext.updater - INFO - Received signal 2 (SIGINT), stopping...
+2019-05-28 03:18:49,025 - telegram.ext.updater - WARNING - Exiting immediately!
+2019-05-28 03:18:51,092 - root - INFO - Бот запускается
+2019-05-28 03:19:00,952 - root - INFO - User: %s, Chat id: %s, Message %s, update.message.chat.username, update.message.chat.id, update.message.text
+2019-05-28 03:19:59,437 - telegram.ext.updater - INFO - Received signal 2 (SIGINT), stopping...
+2019-05-28 03:19:59,715 - telegram.ext.updater - WARNING - Exiting immediately!
+2019-05-28 03:20:02,424 - root - INFO - Бот запускается
+2019-05-28 03:20:17,521 - root - INFO - User: baton10, Chat id: 28957400, Message Ё
+2019-05-28 03:22:28,522 - telegram.ext.updater - INFO - Received signal 2 (SIGINT), stopping...
+2019-05-28 03:22:28,718 - telegram.ext.updater - WARNING - Exiting immediately!
